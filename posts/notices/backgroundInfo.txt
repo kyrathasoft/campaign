@@ -1,0 +1,146 @@
+Message #1
+Background Info, Acceptable Spells, & Character Creation by 380066 GM ()
+Wed, 18 Oct 2023 18:09:40 GMT
+
+
+
+This campaign is archived in a public git repository. Warning: if you're a player in the campaign, use caution which files you peruse: you could ruin some surprises or gain meta knowledge that you might inadvertently conflate with character knowledge.
+
+
+
+Much time has passed: The Middle Ages, The Industrial Revolution, The Space Age, The Visitation, The Disaster and Great Declension, The Age of Ice and Darkness, and now ... finally ... The Time of the Red Tide. Yes, the world has moved on. Much has been lost to history, yet some things gained. Welcome to Scarlet Horizons.
+
+The setting of Scarlet Horizons is Asian-themed post-apocalyptic fantasy in Earth's very far future. Most of the world has been consumed by something called the Red Tide, an alien horror that takes the form of a crimson mist, able to corrupt and consume both physically and through dreams.
+
+The remaining population of the world fled to the Sunset Isles, an extensive archipelago located roughly where Great Britain existed many tens of thousands of years ago. There, after driving the native Shou (who replace Orcs, Goblins, Bugbears and Hobgoblins) into the wilderness, they settled and formed new kingdoms.
+
+The world saw unthinkable advances during The Visitation, suffered untold losses during the Great Declension. Sages speculate about what heights of exalted knowledge and fabled technology now lie hidden in the sediment of countless past generations. But for every tomb-plunderer and ruins-seeking archaeologist, there's a minion of the Ninefold Celestial Empire who is set on preventing the uncovering of veiled secrets from antiquity. Such things must remain shrouded, lest one faction or another gain advantage.
+
+There are four major kingdoms in the setting – the failing Mandarinate of Xian, once the ruler of the entire archipelago, the Hellsworn Shogunate of the North, the decadent Magocracy of Tien Lung, and finally the hard-working and faithful monotheistic Hohnberg Pact.
+
+The Ten-Thousand Islands of the archipelago of the Sunset Isles are home to samurai and sohei, wu-jen and alchemists, monks, rangers, reclusive sorcerers and sublime ascetics at remote monasteries, powerful shoguns in palaces, and fey monsters of the mundane, magical, and (human?) types.
+
+What are referred to as dwarves, elves, and halflings are believed by some modern scholars to share a common ancestor - homo sapiens. What advanced genetic manipulation may have been perpetrated on the human genome during the decades of The Visitation? No records exist anymore ... or do they? Even the shou may in truth descend from humanity.
+
+
+
+Character Creation is via the rules given in the Scarlet Heroes pdf, with the following twist: start at level 0 and immediately promote to 1st level and gain additional hit points per the existing rules. For example, if you created a Level 0 Fighter with a 16 Constitution, he'd have 10 HP at Level 0, add would gain 6 more upon being promoted to Level 1 (4 for the level gain, +2 for Constitution of 16), for a new Hit Point total of 16 starting HP. This is to make your character somewhat less squishy as s/he first embarks upon an adventuring career.
+
+Paired with the ability to Defy Death, the provision in the previous paragraph should make for rather durable player characters.
+
+All PCs at the time of character creation get the usual 3 trait points, plus 2 more bonus trait points for being human (yes, even Geppettin, Mandrakes, Mousefolk, and Spirithost have certain humanlike qualities). Dwarves, known as the Deep-Folk in this game, additionally get the Dwarven Senses trait. Elves, known as the Fey-Folk in this game, additionally get the Elven Senses trait. Halflings, known as the Wee-Folk in this game, additionally get a point in the trait Halfling Stealth. Shou (SHOO) get their starting three trait points, plus one bonus trait point, plus a single point in the trait Resist the Red Tide.
+
+Full humans (i.e., not human-adjacent because they descended from homo sapiens: Deep-Folk, Fey-Folk, Wee-Folk) gain a bonus hit point at every level evenly divisible by three.
+
+You may also opt to play a Mandrake, Geppettin, Mousefolk, or Spirithost (talk to the GM about specifics of these races).
+
+Note: no racial bonuses or penalties apply to any PC-playable race in Scarlet Horizons.
+
+If you choose to play a Shou, he or she can pass for human.
+
+In addition to their 3 base trait points and 2 bonus trait points, thieves gain an additional 3 trait points which must be used (in any desired combination) for any of the following traits (one of which must be chosen as the character's permanent archetype):
+
+CHARACTER CLASS OPTIONS:
+Cleric
+       Paladin
+       Martyr
+Fighter
+       Barbarian
+       Warden
+Rogue
+       Adventuring Thief
+       Alchemist
+       Bounty Hunter
+       Tomb Raider
+Wizard
+       Archaeologist
+       Necromancer
+       War-Mage
+
+
+adventuring thief: applies to stealth, lockpicking, pickpocketing, climbing, and disarming small traps.
+
+tomb raider: applies to rope use, jumping/climbing, noticing and disarming large traps, resistance to poison, and Rarely Surprised.
+
+bounty hunter: tracking, ranged weapon expertise, ambush, intimidation, and improvisation.
+
+To Summarize:
+
+RACES PLAYABLE BY PCs:
+Human
+Shou
+Elf (i.e., Fey Folk)
+Dwarf (i.e., Deep Folk)
+Hafling (i.e., Wee Folk)
+Geppettin
+Mousefolk
+Mandrake
+Spirithost
+
+
+HUMANOID RACES NOT PLAYABLE AS PCs:
+Dragonborn
+Saurian
+Yuan-ti
+Gnomes
+
+
+You can grab a fillable PDF character sheet here or here.
+
+On the vast major isle of Ektau, you hail from the area indicated by the tiny open circle that lies within the branching of the river within the Westmark. You can view a zoomed-in hand-drawn map of your local area. If your character backstory has you originating elsewhere, that's fine. In that event, you happen to be in the aforementioned area at the time that your adventures commence.
+
+
+
+Acceptable Spells
+
+In addition to the spells listed in the official SH pdf, spells from the following lists or files are also acceptable:
+
+https://vodabois.fi/2eSpells/
+https://regalgoblins.com/spells.php
+Microlite
+Basic Fantasy spells
+
+This message was last edited by the GM at 16:53, Today.
+
+
+
+
+Message #2
+Background Info, Acceptable Spells, & Character Creation by 380066 GM ()
+Sat, 21 Oct 2023 20:20:45 GMT
+
+For the sake of completion, below is the text from the game's Request To Join:
+
+This game uses Scarlet Heroes rules, though those expectations may be slightly tweaked by the notice posts here.
+
+The game can support up to four PCs, with never more than two such PCs forming an adventuring party.
+
+Know up front that this game will not feel like 5th edition AD&D. Rather, it aims to magnify the vibe of old-school gaming, such as can be found in OSR materials and the Basic and Expert boxed sets of yesteryear.
+
+The setting is unique but you may (or may not) recognize the occasional plot lifted from old printed modules. If so, be careful not to assume that everything has been translated 100% as-is from that gaming resource.
+
+You should create three characters. Four are permissible. These will form your character pool. There will be in-character reasons to alternate which character you take on various excursions. One such reason could be character death. The character creation rules and the Defying Death mechanic should minimize such occurrences, but they can happen. There is no raise dead or resurrection spell.
+
+We do use the Experience Point table from the Scarlet Heroes PDF; however, characters earn Hero Points for defeating foes, completing quests, and other heroic accomplishments. Anytime ten Hero Points are accumulated, they are removed and the character gains 1 permanent XP. A Hero Point can be spent to re-roll when Defying Death or when making a saving throw. XP cannot be converted to Hero Points.
+
+Hero Points are not recorded on a character sheet and aren't tracked by players. If you find your PC in a situation where you would like to sacrifice a Hero Point, just ask if you have any available.
+
+An adventuring party cannot contain more than two PCs, given how Scarlet Heroes works. It can contain henchmen or hirelings.
+
+Promotion to Level 7 requires that Fighters have taken on a squires, thieves have taken on a sidekick, clerics a neophyte, and wizards an apprentice. However, these NPCs do not have to accompany their respective PCs on adventures.
+
+Promotion to Level 10 requires that Fighters have established a stronghold, clerics an expensive shrine or modest temple, thieves a Hideout, and Wizard's a tower.
+
+When characters advance beyond 10th level, they gain all the expected benefits of their class with the exception of additional hit points. Fighters and other strictly martial classes gain 2 hit points per level after 10th, while magic-users, clerics, and thieves gain 1 hit point. These gains are not adjusted by Constitution modifiers.
+
+Spellcasters continue their spell progressions in the same pattern, gaining 6th level spells at 11th level, 7th level spells at 13th level, and so forth. While the spells included in the Scarlet Heroes source book only go up to fifth level, it’s trivially easy to pull spells from other old-school games to fill out the possibilities beyond -- assuming that a wizard of such might isn’t compelled to devise his own sorceries to express his new degree
+of eldritch power.
+
+Beyond 10th level, heroes start to bend the normal limits of mortal prowess. They need no longer abide by the three-point maximum on their traits, as their legendary might begins to surpass what ordinary humans can accomplish with their skills. The points they gain from advancement may be spent on any appropriate trait, even those that are already at a three-point level. Alternatively, a character gaining a level beyond the 10th can sacrifice the gained trait point in order to add +3 to their maximum hit points (beyond what they already gained from increasing in level).
+
+Heroes may come to gain other special powers after 10th level, if the GM finds it proper to give them these special abilities. These unique powers usually have a close relationship to their past heroics.
+This message was last edited by the GM at 20:13, Yesterday.
+
+
+
+

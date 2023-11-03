@@ -1,0 +1,49 @@
+<b>Theme</b>
+
+The premise of the setting of <i>Scarlet Horizons</i> is that you are on the Earth, but it's the Earth untold millenia into the future. Think Jack Vance's <i>Dying Earth</i> except not so much dying. 
+
+Continents have moved. The globe would be unrecognizable to a current-day geography teacher. The stories of the Dying Earth series are set in the distant future, at a point when the sun is almost exhausted and magic has asserted itself as a dominant force. In <i>Scarlet Horizons</i>, the sun isn't near death, but we <i>are</i> in the distant future.
+
+A theme running through the setting is <i>regression</i>, lost details, and reclaiming buried knowledge and history. Humanity reached its height during the latter decades of the 23rd century A.D. with The Visitation. No definitive records of that period have been found by contemporary man. In fact, all records in the libraries of sages today are only from recent millenia. 
+
+Modern scholars have only theories about the nature of The Disaster & Great Declension. What form did it take? How long did it last? What technological and social changes did it bring?
+
+Players can lean into this nebulous past, or <i>not</i>. It is perfectly acceptable to enjoy the game at the level of sandbox West Marches style adventuring. For any interested, though, <i>that</i> is only the outer skin of the onion that is the <i>Scarlet Horizons</i> setting. There are titillating clues in the present day of these deeper and deeper layers.
+
+For those players keen to delve into such mysteries, there is no shortage of NPC archaeologists, sages, and black market purveyors who will pay handsomely for the mapping and exploration of sites lost to history, for the plumbing of their hidden secrets, and for the reclamation of lost artifacts.
+
+One piece of <i>meta-knowledge</i> for players that is not known to (but may be suspected by some) PCs is that <i>magic</i> in all its apparent forms in the present day is actually explainable scientifically, and the history of its evolution through time <i>can</i> be uncovered and pieced back together by persistent delvers of mysteries.
+
+<b>Common Knowledge</b>
+
+The following could be considered relatively common knowledge to PC heroes of this setting, but I will not comment here on the particular mixture of fact and fancy for each piece of information:
+
+[list]
+[*] The Shou are self-righteously hated by the vast majority of non-Shou
+[*] About 80% of peoples of the Hohnberg Pact are monotheistic Makerites
+[*] There are numerous past civilizations buried all over the globe
+[*] Most view magic as a sort of nebulous ever-present potential that can be tapped
+[*] Everyone knows that there must be numerous gods, because their clerics can cast spells...
+[*] Almost all peoples can get by speaking Low Imperial (including the Shou)
+[*] The Shou have their own guttural tongue as well
+[*] Roughly 300 years ago the Red Tide slew all but a few hundred thousand people
+[*] The last remnant of humanity (est. 500 million) inhabit The Sunset Isles
+[*] Ancient mankind had conveyances that moved far faster than any horse
+[*] Yes, there is a gold- silver- copper-piece economy
+[*] Indeed there appears ample evidence of the existing of <i>magic items</i>
+[*] Nobody uses language specific to the 21st century (email, ghosting, texting, etc.)
+[/list]
+
+<hr>
+
+<b>House Rules</b>
+
+Beyond 10th level, heroes start to bend the normal limits of mortal prowess. They need no longer abide by the three-point maximum on their traits, as their legendary might begins to surpass what ordinary humans can accomplish with their skills. The trait point gained from advancement may be spent on any appropriate trait, even those that are already at a three-point level. <b>Alternatively, a character gaining a level beyond the 10th can sacrifice the gained trait point in order to add +3 to their maximum hit points (beyond what they already gained from increasing in level)</b>.
+
+Magical weapons may have a bonus ranging from +1 to +3. This bonus applies to any attack roll made while using the weapon. When determining damage inflicted by the weapon when used in the hand(s) of a hero, use the standard <i>Scarlet Heroes</i> rules and then choose to add the weapon's bonus to one die's result.
+
+<img src="http://williammillerservices.com/scarlethorizons/tables/dieRoll_Dmg.png">
+
+We always add a magic weapon's bonus to one of its die rolls, <i>before</i> converting to HD of damage. You can see, then, the desirability of magical weapons compared to their mundane counterparts.
+
+We can see, from the above table, that in the hands of an average-strength combatant, a short sword (which deals 1d6) could, upon conversion of the die roll to damage, inflict 0 damage, 1 HD of damage, or (at most) 2 HD of damage. Even as that average-strength combatant gains levels, the best they can hope is to deal 2 HD of damage with a single attack. But what if that short sword has a +2 magical bonus? Now in the hands of the same average-strength combatant, that short sword can inflict between 1 and 2 HD of damage. And if that combatant has a +2 STR bonus? Now, that +2 short sword can inflict between 1 and 4 HD of damage. Even a massive ogre could be felled with a single blow by a strong fighter using such a magical sword.

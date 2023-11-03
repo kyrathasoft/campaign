@@ -1,0 +1,43 @@
+This game uses Scarlet Heroes rules, though those expectations may be slightly tweaked by the notice posts here.
+
+The game can support up to four players, with never more than two PCs forming an adventuring party.
+
+Know up front that this game will not feel like 5th edition AD&D. Rather, it aims to magnify the vibe of old-school gaming, such as can be found in OSR materials and the Basic and Expert boxed sets of yesteryear.
+
+The setting is unique but you may (or may not) recognize the occasional plot lifted from old printed modules. If so, be careful not to assume that everything has been translated 100% as-is from that gaming resource.
+
+You should create three characters. Four are permissible. These will form your character pool. There will be in-character reasons to alternate which character you take on various excursions. One such reason could be character death. The character creation rules and the Defying Death mechanic should minimize such occurrences, but they can happen. There is no raise dead or resurrection spell.
+
+We do use the Experience Point table from the Scarlet Heroes PDF; however, characters earn Hero Points for defeating foes, completing quests, and other heroic accomplishments. Anytime ten Hero Points are accumulated, they are removed and the character gains 1 permanent XP. A Hero Point can be spent to re-roll when Defying Death or when making a saving throw. XP cannot be converted to Hero Points.
+
+Hero Points are not recorded on a character sheet and aren't tracked by players. If you find your PC in a situation where you would like to sacrifice a Hero Point, just ask if you have any available.
+
+An adventuring party cannot contain more than two PCs, given how Scarlet Heroes works. It can contain henchmen or hirelings.
+
+Promotion to Level 7 requires that Fighters have taken on a squires, thieves have taken on a sidekick, clerics a neophyte, and wizards an apprentice. However, these NPCs do not have to accompany their respective PCs on adventures.
+
+Promotion to Level 10 requires that Fighters have established a stronghold, clerics an expensive shrine or modest temple, thieves a Hideout, and Wizard's a tower.
+
+When characters advance beyond 10th level, they gain all the
+expected benefits of their class with the exception of additional hit
+points. Fighters and other strictly martial classes gain 2 hit points
+per level after 10th, while magic-users, clerics, and thieves gain 1 hit
+point. These gains are not adjusted by Constitution modifiers.
+Spellcasters continue their spell progressions in the same pattern,
+gaining 6th level spells at 11th level, 7th level spells at 13th level, and
+so forth. While the spells included in this book only go up to fifth
+level, it’s trivially easy to pull spells from other old-school games to
+fill out the possibilities beyond- assuming that a wizard of such might
+isn’t compelled to devise his own sorceries to express his new degree
+of eldritch power.
+
+Beyond 10th level, heroes start to bend the normal limits of mortal
+prowess. They need no longer abide by the three-point maximum on
+their traits, as their legendary might begins to surpass what ordinary
+humans can accomplish with their skills. The points they gain from
+advancement may be spent on any appropriate trait, even those that
+are already at a three-point level.
+
+Heroes may come to gain other special powers after 10th level, if the
+GM finds it proper to give them these special abilities. These unique
+powers usually have a close relationship to their past heroics.

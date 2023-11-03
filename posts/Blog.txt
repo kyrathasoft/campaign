@@ -1,0 +1,34 @@
+<i>Blacktooth</i> - ADD ENTRY
+
+<i>Dartscale</i> - ADD ENTRY
+
+<i>Dolecherry</i> - ADD ENTRY 
+
+<i>Hasiko brandy</i> - ADD ENTRY
+
+<i>Henneth</i> is a five-leaf plant that grows in the rich loam of woodlands in and around Strigix. Brewed into a tea, it is mild stimulating, bringing clarity of thought and a sense of well-being. It is also of use in poultices due to its antibiotic properties.
+
+<i>Juric</i>, an eleven year old Padoar lad who acts as Tauste's errand boy.
+
+<i>Kai, Baron</i> - ADD ENTRY
+
+<i>Mimsy</i> - ADD ENTRY
+
+<i>Padoar</i> - ADD ENTRY
+
+<i>Prugal</i> a loathesome ne'er-do-well who lazes about the villages of Padoar and Dartscale, seeking handouts. He sometimes venture as far northward as Dolecherry or Silent Diamond. He is fat and slovenly, and a miasma of body odor pervades his immediate vicinity.
+
+<i>Sanflao</i> - ADD ENTRY
+
+<i>Santiro, General</i> - ADD ENTRY
+
+<i>Silent Diamond</i> - ADD ENTRY
+
+<i>Slaytonthorpe</i> - ADD ENTRY
+
+<i>Smokeshadow</i> - ADD ENTRY
+
+<i>Wags</i> a massive Doberman, pet to the wizard Tauste.
+
+<a href="http://williammillerservices.com/scarlethorizons/icons/Wags.png><img src="http://williammillerservices.com/scarlethorizons/icons/Wags_64.png"></a>Wags is an exceptional beast of his type, a species that has survived for hundreds of thousands of years. <tt>HD: 2; Atk: +2; Dmg: 2d3</tt>
+
