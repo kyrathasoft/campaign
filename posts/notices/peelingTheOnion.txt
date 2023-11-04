@@ -1,49 +1,147 @@
-<b>Theme</b>
+Message #1
+Peeling the Onion & House Rules by GM ()
+Sat, 21 Oct 2023 16:57:21 GMT
 
-The premise of the setting of <i>Scarlet Horizons</i> is that you are on the Earth, but it's the Earth untold millenia into the future. Think Jack Vance's <i>Dying Earth</i> except not so much dying. 
+Theme
 
-Continents have moved. The globe would be unrecognizable to a current-day geography teacher. The stories of the Dying Earth series are set in the distant future, at a point when the sun is almost exhausted and magic has asserted itself as a dominant force. In <i>Scarlet Horizons</i>, the sun isn't near death, but we <i>are</i> in the distant future.
+The premise of the setting of Scarlet Horizons is that you are on the Earth, but it's the Earth untold millenia into the future. Think Jack Vance's Dying Earth except not so much dying.
 
-A theme running through the setting is <i>regression</i>, lost details, and reclaiming buried knowledge and history. Humanity reached its height during the latter decades of the 23rd century A.D. with The Visitation. No definitive records of that period have been found by contemporary man. In fact, all records in the libraries of sages today are only from recent millenia. 
+Continents have moved. The globe would be unrecognizable to a current-day geography teacher. The stories of the Dying Earth series are set in the distant future, at a point when the sun is almost exhausted and magic has asserted itself as a dominant force. In Scarlet Horizons, the sun isn't near death, but we are in the distant future.
+
+A theme running through the setting is regression, lost details, and reclaiming buried knowledge and history. Humanity reached its height during the latter decades of the 23rd century A.D. with The Visitation. No definitive records of that period have been found by contemporary man. In fact, all records in the libraries of sages today are only from recent millenia.
 
 Modern scholars have only theories about the nature of The Disaster & Great Declension. What form did it take? How long did it last? What technological and social changes did it bring?
 
-Players can lean into this nebulous past, or <i>not</i>. It is perfectly acceptable to enjoy the game at the level of sandbox West Marches style adventuring. For any interested, though, <i>that</i> is only the outer skin of the onion that is the <i>Scarlet Horizons</i> setting. There are titillating clues in the present day of these deeper and deeper layers.
+Players can lean into this nebulous past, or not. It is perfectly acceptable to enjoy the game at the level of sandbox West Marches style adventuring. For any interested, though, that is only the outer skin of the onion that is the Scarlet Horizons setting. There are titillating clues in the present day of these deeper and deeper layers.
 
 For those players keen to delve into such mysteries, there is no shortage of NPC archaeologists, sages, and black market purveyors who will pay handsomely for the mapping and exploration of sites lost to history, for the plumbing of their hidden secrets, and for the reclamation of lost artifacts.
 
-One piece of <i>meta-knowledge</i> for players that is not known to (but may be suspected by some) PCs is that <i>magic</i> in all its apparent forms in the present day is actually explainable scientifically, and the history of its evolution through time <i>can</i> be uncovered and pieced back together by persistent delvers of mysteries.
+One piece of meta-knowledge for players that is not known to (but may be suspected by some) PCs is that magic in all its apparent forms in the present day is actually explainable scientifically, and the history of its evolution through time can be uncovered and pieced back together by persistent delvers of mysteries.
 
-<b>Common Knowledge</b>
+Common Knowledge
 
 The following could be considered relatively common knowledge to PC heroes of this setting, but I will not comment here on the particular mixture of fact and fancy for each piece of information:
 
-[list]
-[*] The Shou are self-righteously hated by the vast majority of non-Shou
-[*] About 80% of peoples of the Hohnberg Pact are monotheistic Makerites
-[*] There are numerous past civilizations buried all over the globe
-[*] Most view magic as a sort of nebulous ever-present potential that can be tapped
-[*] Everyone knows that there must be numerous gods, because their clerics can cast spells...
-[*] Almost all peoples can get by speaking Low Imperial (including the Shou)
-[*] The Shou have their own guttural tongue as well
-[*] Roughly 300 years ago the Red Tide slew all but a few hundred thousand people
-[*] The last remnant of humanity (est. 500 million) inhabit The Sunset Isles
-[*] Ancient mankind had conveyances that moved far faster than any horse
-[*] Yes, there is a gold- silver- copper-piece economy
-[*] Indeed there appears ample evidence of the existing of <i>magic items</i>
-[*] Nobody uses language specific to the 21st century (email, ghosting, texting, etc.)
-[/list]
+The Shou are self-righteously hated by the vast majority of non-Shou
+About 80% of peoples of the Hohnberg Pact are monotheistic Makerites
+There are numerous past civilizations buried all over the globe
+Most view magic as a sort of nebulous ever-present potential that can be tapped
+Everyone knows that there must be numerous gods, because their clerics can cast spells...
+Almost all peoples can get by speaking Low Imperial (including the Shou)
+The Shou have their own guttural tongue as well
+Roughly 300 years ago the Red Tide slew all but a few hundred thousand people
+The last remnant of humanity (est. 500 million) inhabit The Sunset Isles
+Ancient mankind had conveyances that moved far faster than any horse
+Yes, there is a gold- silver- copper-piece economy
+Indeed there appears ample evidence of the existing of magic items
+Nobody uses language specific to the 21st century (email, ghosting, texting, etc.)
 
-<hr>
 
-<b>House Rules</b>
 
-Beyond 10th level, heroes start to bend the normal limits of mortal prowess. They need no longer abide by the three-point maximum on their traits, as their legendary might begins to surpass what ordinary humans can accomplish with their skills. The trait point gained from advancement may be spent on any appropriate trait, even those that are already at a three-point level. <b>Alternatively, a character gaining a level beyond the 10th can sacrifice the gained trait point in order to add +3 to their maximum hit points (beyond what they already gained from increasing in level)</b>.
 
-Magical weapons may have a bonus ranging from +1 to +3. This bonus applies to any attack roll made while using the weapon. When determining damage inflicted by the weapon when used in the hand(s) of a hero, use the standard <i>Scarlet Heroes</i> rules and then choose to add the weapon's bonus to one die's result.
+House Rules
 
-<img src="http://williammillerservices.com/scarlethorizons/tables/dieRoll_Dmg.png">
+Beyond 10th level, heroes start to bend the normal limits of mortal prowess. They need no longer abide by the three-point maximum on their traits, as their legendary might begins to surpass what ordinary humans can accomplish with their skills. The trait point gained from advancement may be spent on any appropriate trait, even those that are already at a three-point level. Alternatively, a character gaining a level beyond the 10th can sacrifice the gained trait point in order to add +3 to their maximum hit points (beyond what they already gained from increasing in level).
 
-We always add a magic weapon's bonus to one of its die rolls, <i>before</i> converting to HD of damage. You can see, then, the desirability of magical weapons compared to their mundane counterparts.
+Magical weapons may have a bonus ranging from +1 to +3. This bonus applies to any attack roll made while using the weapon. When determining damage inflicted by the weapon when used in the hand(s) of a hero, use the standard Scarlet Heroes rules and then choose to add the weapon's bonus to one die's result.
+
+
+
+We always add a magic weapon's bonus to one of its die rolls, before converting to HD of damage. You can see, then, the desirability of magical weapons compared to their mundane counterparts.
 
 We can see, from the above table, that in the hands of an average-strength combatant, a short sword (which deals 1d6) could, upon conversion of the die roll to damage, inflict 0 damage, 1 HD of damage, or (at most) 2 HD of damage. Even as that average-strength combatant gains levels, the best they can hope is to deal 2 HD of damage with a single attack. But what if that short sword has a +2 magical bonus? Now in the hands of the same average-strength combatant, that short sword can inflict between 1 and 2 HD of damage. And if that combatant has a +2 STR bonus? Now, that +2 short sword can inflict between 1 and 4 HD of damage. Even a massive ogre could be felled with a single blow by a strong fighter using such a magical sword.
+This message was last edited by the GM at 20:04, Mon 23 Oct.
+
+
+
+
+Message #2
+Encounter Tables by 380066 Bryan (GM)
+Urplexed Legend, Scion of Alygrean
+Sat, 28 Oct 2023 12:30:51 GMT
+
+The game will use Encounter Tables based on a 2d6 roll.
+
+2 is always a dragon.
+
+Because all of our games could use more dragons in them. The game is called “Dungeons & Dragons,” yet in my experience, the appearances of dragons end up being exceedingly rare when contrasted with how often dungeons show up. They don’t need to be these hulking colossal beasts capable of stepping on PCs as though they were ants. They don’t need to be impossible to defeat, so long as they’re scary. A lizard the size of a car with 8 more hit dice than that party’s average, multiple attacks each around, and a big breath weapon is more than enough.
+
+When my players encounter a dragon there’s a 1-in-3 chance that it’s hungry and wants to gobble them up. In this mood a dragon can’t be reasoned with, you’ve got to fight or flee. The other 2/3rds of the time the dragon will simply demand tribute from anyone who crosses its path. Anyone who refuses to pay tribute is gobbled up on principal as a warning to people who think they’re allowed to say ‘no’ to a dragon. Each of my dragons has a preferred form of tribute (perhaps unique books or fancy bottles of booze) but will also accept money of a certain amount per person.
+
+12 is always a wizard.
+
+Because all of our games could use more wizards in them. Because wizards are the coolest, fuck you wizard haters. A wizard doesn’t need a complete spell list and inventory of magic items. All they need is the ability to do something really weird and scary, and an escape plan. Wizards know they’ve got a d4 hit die, so they’ve always got an escape plan.
+
+Wizards, being a few steps closer to humanity than dragons, are slightly less likely to want to eat people. Like all my encounters, they’ll be pursuing some specific activity when the party meets them—though because they’re wizards that activity may be completely inscrutable. Capable-looking passers by may find themselves press-ganged into doing something strange, and a lucky party may earn a boon. Though, it’s just as likely that what a wizard wants is something the party would never willingly give up. “The foot of a traveler” is a desirable component for certain spells.
+
+My private rule is that it’s not possible for the party to become friends with a wizard, because wizards do not have friends. Wizards divide people into three categories: people they hate, people who are useful, and people who are beneath their notice. That third group is definitely the safest one to be in.
+
+Wizards and Dragons are each factions of one. They’re individuals with enough personal power that they don’t have to worry about rules or territories. They usually have a few minions, but they control them at their whims rather than by any formalized structure. When encountering either of these creatures the party should be in great personal danger, but clever play could also bring them great advantage. If a wizard or dragon is slain, there are consequences. Allegiances shift, power vacuums appear and are filled, and valuable treasure hoards are left without their most powerful guardians.
+
+7 is usually Recurring Characters.
+
+I maintain a separate list of these, populated with NPCs the party has had some fun dealings with but who would not otherwise have any reason to recur. I rotate people off that list whenever this result causes them to appear, then rotate them back on if the list ever gets too small. In most other circumstances I prefer the purer randomness of a creature that can appear over and over again while some other creatures never do. For recurring characters though, who are mostly friendly to the party, that has often felt tedious to me. It’s fun bumping into an old friend in the grocery store. It’s awkward when you keep bumping into them in every aisle.
+
+The Major Half of the table
+
+8, 9, 10, and 11 are for universal threats. Stuff that could appear anywhere and any time without being out of place. The further they get from 7, the more wild they can be. So while 8 might be a rabid dog or a hungry bandit, 11 is going to be something like a void vampire or a spell-starved lich.
+
+The Minor Half of the table
+
+6, 5, 4, and 3 are for threats tied to specific locations. In On a Red World Alone that usually refers to the factional territories the party must travel through in order to get anywhere in the Dome, but it might also mean levels of a dungeon, regional biomes, depth beneath the surface of the sea, etc. Whatever boundaries are important for the players to understand in your setting, you can help emphasize them with this. On one side of a boundary the players fight goblins, on the other they fight flying devil sharks with tornado breath weapons.
+
+Thus my encounter table ends up looking like this:
+
+Roll a Dragon
+[Territory]
+[Territory]
+[Territory]
+[Territory]
+Roll a Recurring Character
+Six giant slugs demanding taxes in the name of the slug king. Who the hell is the slug king?
+Starving Dire Bear, recently escaped from an abandoned moleman zoo deep underground.
+21 Gnomes (the ideal number). A numerological cult. They’re insulted by the number of buckles on the party’s clothes.
+A talking book that is horny to be read from. It makes things weird right away. (The text is about the history of obelisks).
+Roll a Wizard
+Kobold Territory
+
+The party spots a pit trap. They’re supposed to spot it. There are 7 kobolds waiting to ambush them as they edge around it.
+17 goblins in full armor, here to raid their kobold foes, and willing to raid anyone else they meet.
+A kobold merchant traveling to the lands of the slug king to trade. Has a minotaur bodyguard, and doesn’t trust outsiders.
+4 young Kobold bravos, all drunk, looking for an opportunity to prove their toughness.
+Boneboy Territory
+
+A great big rolling skull that can shoot fire out its eyes. Trying to win a marathon race. Would be furious if anyone delayed them even a moment. A giant serpent. Unseen are 3 boneboy hunters stalking the serpent, who may ambush the party if their encounter with the serpent presents a useful advantage. A whole company of boneboys (24!) out on marching maneuvers. They’re raw recruits. This is their first day. All but their commander will panic at first sight of the enemy.
+2 boneboy warriors sitting in a small camp, polishing one another’s bones. They will be angry and embarrassed to be discovered.
+By breaking the table down this way, generating 11 options becomes a much more manageable task. And adding a new location only requires generating 4 new options, rather than a whole new table. So the only task left is to actually fill the table, and the question becomes: what makes a good encounter table entry? First I ought to specify that for my purposes, an encounter is (almost) always an agent of some sort. An NPC, animal, or monster. I’ve got other tools for managing random locations or environmental hazards. Encounters are things that have their own desires and the ability to pursue them.
+
+The first step is just to come up with something that feels cool to me. It’s easier to turn a weak encounter into a strong encounter than it is to conjure a strong encounter fully formed in my imagination. I pull ideas from anywhere. If I’m on the Minor Half of the table I try to stick to something that represents the factions and situations of the region, but otherwise I let my imagination roam widely and trust that I’ll figure out how to make it fit during play. Sometimes I’m fired by the sort of creative energy that drives me to invent a unique monster, other times I just flip through one of the monster manuals I’ve got on my shelves and pick out the first thing that looks fun. Once I’ve got everything down in a way that interests me, then I can go back over the table to figure out if the entries meet the criteria of being a good encounter. There are two wrinkles that each encounter needs in order for me to be satisfied that I’ll be able to run it quickly at the table.
+
+
+Message #3
+Deeds by GM (NPC)
+Urplexed Legend, Scion of Alygrean
+Sat, 04 Nov 2023 01:54:36 GMT
+
+Deeds are special actions that cost Risk Dice to attempt. Available deeds are class-gated. PC heroes begin play with three deeds. For example, Faramund Beckette's starting deeds are:
+
+SKIN OF YOUR TEETH - When an attacker you can see makes an attack roll against you, you can expend a risk die as a reaction. Use the die's result to improve your AC against that particular attack, then calculate if it hits or misses. You can do this after the foe's attack roll result is known.
+
+SOUL OF A WARRIOR - When you roll a critical hit, spend zero risk dice and regain a risk die (this can temporarily put you above your normal risk dice maximum).
+
+UNUSUAL PROWESS - When you roll initiative and you are not surprised, you can choose to expend a Risk Die in order to move up to ten feet and make one free melee weapon attack against a creature within your reach. This doesn't count against your regular action for the round.
+
+Deatre Leadslinger's starting deeds are:
+
+DEEDS:
+
+SKIN OF YOUR TEETH - When an attacker you can see makes an attack roll against you, you can expend a risk die as a reaction. Use the die's result to improve your AC against that particular attack, then calculate if it hits or misses. You can do this after the foe's attack roll result is known.
+
+SOUL OF A WARRIOR - When you roll a critical hit, spend zero risk dice and regain a risk die (this can temporarily put you above your normal risk dice maximum).
+
+UNUSUAL PROWESS - When you roll initiative and you are not surprised, you can choose to expend a Risk Die in order to move up to ten feet and make one free melee weapon attack against a creature within your reach. This doesn't count against your regular action for the round.
+
+At 2nd level, Faramund might choose to learn one of Deatre's deed; conversely, at 2nd level, Deatre might choose to learn one of Faramund's. You can only learn deeds by observing or being taught by someone who has that deed.
+This message was last updated by the player at 20:54, Today.
+
+
