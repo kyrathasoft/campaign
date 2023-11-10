@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  /* height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.vl {
+  border-left: 3px solid #FFFFFF;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+
+</style>
+</head>
+<body style="background-color:khaki;">
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#FFF8DC;">
+    <h2>Column 1</h2>
+    <p>1. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>2. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>3. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>4. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>5. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>6. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>7. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>8. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>9. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <p>10. Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+    <div class="vl"></div>
+  </div>
+  <div class="column" style="background-color:#FFF8DC;">
+    <h2>Column 2</h2>
+    <p>Some text to test how well it looks when you have a substantial amount of text to e displayed for the reader to view.</p>
+  </div>
+</div>
+
+</body>
+</html>
