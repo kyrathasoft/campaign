@@ -1,0 +1,1 @@
+Purple Lotus Powder - a legendary substance said to be able to transform someone into a god or annihilate them in the space between seconds
