@@ -3,5 +3,6 @@
 - Fornost d'Voivodja, Abbot - founded the Seekers in PR 102, in Helix
 - Magen Eisenthrast
 - Matthias d'Slaytonthorpe
+- Prugal, a slovenly ne'er-do-well in Padoar
 - Rogier Van Der Weyden
 - Tauste (surname is a Secret)
