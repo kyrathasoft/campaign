@@ -1,5 +1,7 @@
-Auriochos d'Rosenberger
-Banville Mask, Keeper of the Heart Queen’s pictures
-Magen Eisenthrast
-Matthias d'Slaytonthorpe
-Rogier Van Der Weyden
+- Auriochos d'Rosenberger
+- Banville Mask, Keeper of the Heart Queen’s pictures
+- Fornost d'Voivodja, Abbot - founded the Seekers in PR 102, in Helix
+- Magen Eisenthrast
+- Matthias d'Slaytonthorpe
+- Rogier Van Der Weyden
+- Tauste (surname is a Secret)

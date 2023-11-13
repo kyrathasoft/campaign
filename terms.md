@@ -1,7 +1,8 @@
 - chapedro
 - Duvan'ku, The
+- Far Ancients, The
 - Powers, The
 - Seekers, The
-- Unknown One, The
+- Unknown God, The
 
 
