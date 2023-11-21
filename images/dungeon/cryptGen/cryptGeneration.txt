@@ -42,3 +42,207 @@ There is a 30% chance that a 10' descending staircase extends immediately beyond
 	11. Secret Door: stash of Grave Goods, see Step # ??? below
 	
 	12. Partially Collapsed: 1-2 chance on d6 per turn further collapse does 2d6 (dodge check DC 11 for half)
+	*Roll 1d6: Sword (1–2), Mace (3–4), Bow (5–6). Adjust accordingly to PC level: 1–3 (+1), 4–6 (+2), 7–10 (+3)
+	
+8. Crypt contents (1d12):
+
+1 Empty
+2 Empty with Grave Goods
+3 Empty with Trap
+4 Empty with Trap
+5 Empty with Trap and Grave Goods
+6 Empty with Trap and Grave Goods
+7 Monster with Trap and Grave Goods
+8 Monster
+9 Monster with Grave Goods
+10 Monster with Grave Goods
+11 Unique Feature: Roll on Step 4
+12 Plundered Crypt (roll again unless this is the entrance)*
+*Tomb-robbers have broken into the entrance of this crypt. Roll 1d6 
+for all the remaining chambers. A roll of 1–4 indicates the chamber 
+has been entered, searched, and plundered. 
+
+
+9. Crypt occupants (1d8) roll only once:
+1–4 Empty
+5 Tomb-Robbers (2d4+4)
+6 Acolytes of Orcus (1d6+4)
+7 Necromancers of Set (1d6+4)
+8 Random Monster: Roll 1d6 and consult Step 6 to determine 
+the monster type that wondered into the plundered crypt—1–2: 
+(Level 1–3), 3–4 (Level 4–6), 5–6 (Level 7–10) or as needed for 
+your campaign.
+
+10. If a monster is rolled above:
+
+Levels 1–3 Levels 4–6 Levels 7–10
+1 Skeleton (1d8) Caryatid Column (1d4) Black Pudding (1)
+2 Giant Centipede (1d6) Water Fountain Elemental (1) Amber Golem (1d2)
+3 Giant Rats (1d10) Flagstone Golem (1d4) Bone Golem (1d2)
+4 Blood-Thirsty Spider (1d4) Sandling (1d4) Ochre Jelly (1d2)
+5 Crypt Shade (1d2) Son of Gaxx (1d6) Vampire (1)
+6 Rot Grubs Ravenous Dead (1d6) Ghost (1)
+7 Yellow Mold Mummy (1d4) Iron Golem (1)
+8 Giant Crab Spider (1d4) Wight (1d2) Stone Golem (1)
+9 Zombie (1d6) Giant Ants (1d6+4) Banshee (1)
+10 Shadow (1d4) Carcass Scavenger (1) Guardian Naga (1)
+11 Ghoul (1d3) Gargoyle (1d4) Barrow Mummy (1d4)
+12 Fire Beetle (1d6) Spectre (1) Gemstone Golem (1)
+13 Fossil Skeleton (1d6) Statue: Iron or Stone (1d6) Runic Golem (1d2)
+14 Gray Ooze (1) Wraith (1d2) Rot Pudding (1)
+15 Coffer Corpse (1) Giant Boring Beetle (1d4) Barrow Ghast (1d2)
+16 Barrow Guardian (1d2) Ghast (1d4) Brown Pudding (1)
+17 Giant Scorpion (1d4) Spectral Dead (1d6) Steel Skeletons (1d4)
+18 Wood Golem (1d2) Greater Barrow Guardian (1d2) Greater Crypt Shade (1)
+19 Green Slime (1) Barrow Wight (1d2) Crypt Knights (1d6+2)
+20 Roll on Levels 4–6 Roll on Levels 7–10 JuJu Zombies (1d8+6)
+
+11. Determine Grave Goods
+
+	1. Determine the Type of Grave Goods
+	2. Determine the Value of the Grave Goods in gold 
+		pieces (gp)
+	3. Determine if the grave goods are of Exceptional Value. 
+	If so, add the amount indicated on the appropriate 
+	subtable below and include the Description, if applicable.
+	If Grave Goods are present, roll 1d20 to determine the 
+	Grave Goods Type
+
+	1–3 Amphora
+	4–6 Goblet
+	7–10 Jewelry
+	11–13 Coin*
+	14–16 Gems 
+	17–18 Ancient Scrolls and Manuscripts
+	19–20 Random Magic Item (Consult Labyrinth Lord p.107
+	
+	*If coin, roll 1d20: Copper (1–5), Electrum (6–10), Silver (11–14), Gold 
+	(15–18), Platinum (19–20). When determining the value, use the coin 
+	type rolled instead of gp on the Grave Goods Value table below.
+	
+	7B: Grave Goods Value
+	Die Result		Levels 1–3 		Levels 4–6 		Levels 7–10
+		1 				50gp 			550gp 			1050gp
+		2–3 			100gp 			600gp 			1400gp
+		4–6 			200gp 			700gp 			1800gp
+		7–9 			300gp 			800gp 			2200gp
+		10–11 			400gp 			900gp 			2600gp
+		12 				500gp 			1000gp 			3000g
+		
+		Grave Goods of Exceptional Value
+		Amphora (1d6) 	Description 	(Exceptional Value)
+			1–2 		Decorative 		(+300gp)
+			3–4 		Ornate 			(+400gp)
+			5–6 		Commemorative 	(+500gp)
+			
+		Goblet (1d8) 	Description 				(Exceptional Value)
+			1–3 		Wrought Silver 				(+300gp)
+			4–6 		Wrought Gold 				(+400gp)
+			7 			Wrought Silver with Gems 	(+800gp)
+			8 			Wrought Gold with Gems 		(+1000gp)
+			
+	Jewelry Type*
+		1 				Bracelet
+		2 				Broach
+		3 				Circlet
+		4 				Earring
+		5 				Necklace
+		6 				Ring
+		7 				Bracers
+		8 				Cloak Clasp
+		9 				Belt Buckle
+		10 				Scabbard (inlaid with)
+		------
+		If jewelry  is Exceptional, roll on both following tables:
+
+	Jewelry 				(Exceptional Value)
+	1 Ivory 				(+100gp)
+	2 Jade 					(+200gp)
+	3 Coral 				(+300gp)
+	4 Silver 				(+400gp)
+	5 Electrum 				(+450gp)
+	6 Gold 					(+500gp)
+	7 Platinum 				(+600gp)
+	8 Silver with Gems 		(+800gp)
+	9 Gold with Gems 		(+1000gp)
+	10 Platinum with Gems 	(+1200gp)
+	
+	1 Azurite 				(+50gp)
+	2 Lapis Lazuli 			(+75gp)
+	3 Tiger Eye 			(+100gp)
+	4 Bloodstone 			(+100gp)
+	5 Moonstone 			(+200gp)
+	6 Sardonyx 				(+300gp)
+	7 Amethyst 				(+300gp)
+	8 Aquamarine 			(+400gp)
+	9 Pearl 				(+500gp)
+	10 Black Sapphire 		(+500gp)
+	11 Emerald 				(+800gp)
+	12 Diamond 				(+1000gp)
+
+Coin
+1–5 Copper (+1000cp)
+6–10 Silver (+800sp)
+11–14 Electrum (+600ep)
+15–18 Gold (+400gp)
+19–20 Platinum (+50pp)
+For each set of Grave Goods present roll 1d8. A roll of 
+1 indicates a treasure of exceptional value. Consult the 
+appropriate sub-table to determine the final value.
+*For Jewelry roll Type. If Exceptional, roll both tabl
+
+Scrolls
+1 Ancient star charts (+50gp)
+2 Personal papers (+100gp)
+3 Holy writs (+150gp)
+4 Sheet music (+200gp)
+5 Folktales of lost tribe (+250gp)
+6 Bestiary (+300gp)
+7 Love letter from ancient hero (+350gp)
+8 Map with secret Barrowmaze entrance (+400gp)
+9 Potion formula (+500gp)
+10 Scroll: Ward (Referee’s choice)
+11 Clerical Scroll: 4 Spells (Referee’s choice)
+12 Magic-User Scroll : 4 Spells (Referee’s choice
+
+Roll 1d6 to determine the Trap Type. Then roll on the 
+appropriate sub-table.
+
+1 Pit
+2 Melee
+3 Ranged
+4 Gas
+5 Magical
+6 Curse
+
+Pit Trap
+1 10' Deep (1d6 points of damage)
+2 20' Deep with Spikes (2d6 points of damage + 1d6 for spikes)
+3 30' Deep with Spikes and Locks Shut (3d6 points of damage)
+4 20' Deep with Spikes and Yellow Mold (2d6 points of damage and consult LL.103)
+
+Melee Trap
+Pendulum Blade (2d6 points of damage. Dexterity check for half)
+2 Floor Spears (1d6 points of damage)
+3 Swinging Ball (2d6 points of damage. Dexterity check for half)
+4 Clockwork Cobra (50%) or Clockwork Scorpion (50%)
+
+Ranged Trap
+1 Poison Darts (1d6 points of damage. Save versus poison or die)
+2 Crossbow Bolt (1d6 points of damage)
+3 Poisoned Arrows (1d6 points of damage. Save versus poison or take additional 1d6)
+4 Poison Needles (1d3 points of damage. Save versus poison or die)
+
+Gas
+1 Poison (1d6 points of damage per round. Gas lasts for 1d6 rounds. Save for half)
+2 Paralytic (Save versus Paralysis. Effect lasts for 1 turn. Roll for random monsters)
+3 Sleeping (Save versus Poison. Effect lasts for 1 turn. Roll for random monsters)
+4 Laughing (Save versus Poison. Effect lasts for 1 turn. Roll for random monsters
+
+Magical
+1 Explosive Runes (See Magic-User spell)
+2 Glyph of Warding (See Cleric spell: Fire: 16 points of damage. Save for half)
+3 Polymorph (PC polymorphed into 1: Goat, 2: Frog, 3: Snake, 4: Donkey)
+4 Wall of Stone covers crypt entrance/exit
+
+
