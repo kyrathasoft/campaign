@@ -65,3 +65,8 @@ sc {
   font-size: 18;
   background-color: beige;
 }
+th {
+  padding: 5px;
+}
+td {padding: 5px; border:style 1px red; }
+table { border:solid 3px gray; }
