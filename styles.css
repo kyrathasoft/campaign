@@ -32,8 +32,8 @@ p4 {
 .aligned {
   margin-top: 20px;
   align-items: center;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
   margin-bottom: 20px;
 }
 .aligned > img {
@@ -70,3 +70,6 @@ th {
 }
 td {padding: 5px; border:style 1px red; }
 table { border:solid 3px gray; }
+gr{
+	color: #808080;
+}
