@@ -1,5 +1,7 @@
 - Auriochos d'Rosenberger
 - Banville Mask, Keeper of the Heart Queen’s pictures
+- Chudwick Castion, a young boy in Helix village who suffers vitamin A and B-complex deficiencies
+- Cimmer Castion, Chudwick's father and master glassblower of Helix
 - Fornost d'Voivodja, Abbot - founded the Seekers in PR 102, in Helix
 - Hurg Scarface, chief of the Scarface goblin tribe that resides south of Helix at the edges of the bog
 - Magen Eisenthrast
