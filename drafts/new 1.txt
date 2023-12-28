@@ -1,0 +1,31 @@
+### A Gentle Introduction to Roleplaying Games - Part 2 ###
+
+<center>◦◦◦ **clueless to 1st character** ◦◦◦<br>a ?-word article</center>
+
+At some point, your [player-character][1] will find herself involved in combat — perhaps not willingly (ambush, brigands). When combat ensues, the old addage may well apply: "I'm don't start fights, but I definitely finish them."
+
+Truth to tell, depending upon the chosen personality and predilections of your player-character, s/he may indeed *start* a lot of fights. 
+
+In a roleplaying game, fights may be *mortal*, i.e., to the death, or they may be broken up by bystanders or what passes for law enforcement (bar fights, etc.) Regardless of the type of fight in which you find your player-character, your objective is usually to win.
+
+When it comes to physical combat, not all player-character (i.e., *PCs* for short) are created equal.  In many roleplaying games (*Dungeons & Dragons* being the most widely known), your player-character will have a vocation. In many game systems, this is called your character's *class*. 
+
+In *Scarlet Horizons*, the author's self-created setting and rules system for fantasy and far-future roleplaying, there are quite a few of these *classes*. The best combatants are those PCs (i.e., [player-characters][1]) who concentrate of the Fighter class —and its *subclasses*. These characters tend to hit the hardest and most accurately in combat.
+
+New players who've never played a tabletop RPG may want to take the Fighter class. It's tendencies and modus operandi are well-reflected in literature, television, and movies (*The Count of Monte Christo*, Vikings, Bruce Lee movies, *Blackhawk Down*, etc.)
+
+The thing about combat is, your foe is trying to hurt you without getting hurt in turn. So, combat is a dance of martial skill — feints, lunges, haymakers, thrusts, slashes all interspersed with ducking, dodging, blocking, evading. 
+
+In many roleplaying games combat is simulated using dice rolls. Because dice introduce randomness, they lend themselves to combat, in which there is rarely a 100% chance of landing a sword stroke — *or* avoiding one.
+
+In *Dungeons & Dragons*, and in my own *Scarlet Horizons* system and setting — which uses Kevin Crawford's *Scarlet Heroes* as a starting point for its mechanics — a twenty-sided die is used to determine if a combatant's attack successfully *hits* its intended target.
+
+<center><img src="/scarlethorizons/icons/dice/d20.png"></center>
+
+The higher the result that you roll using that 20-sided die (called a *dodecahedron*, if you care), the better the likelihood you've successfully injured your foe, whether that's another bar room brawler, or a hydra in a swamp.
+
+In many systems, *Dungeons & Dragons*, *Scarlet Heroes*, and &mdash; yes &mdash; in my own *Scarlet Horizons*, the goal is to get a d20 die result equal to or higher than a certain target number. In the 5th edition of *Dungeons & Dragons*, that target number is an *Armor Class*, and in the modern 5th edition of the game, the higher the Armor Class, the more difficult it is to penetrate with an attack.
+
+But in earlier versions of AD&D, Armor Class did not range from 10 to (the upper twenties, or even higher). Rather, in these older systems, Armor Class ranged from negative ten, to positive ten. And in *those* systems, the *lower* the AC (armor class), the better protected or the harder to hit a target was.
+
+ [1]: /2023/11/what-is-a-roleplaying-game#dungeonmaster#playercharacter
