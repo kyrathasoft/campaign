@@ -1,8 +1,20 @@
 ### A Gentle Introduction to Roleplaying Games - Part 2 ###
 
-<center>◦◦◦ **clueless to 1st character** ◦◦◦<br>a ?-word article</center>
+<center>[previous article][1]<br>
 
-At some point, your [player-character][1] will find herself involved in combat — perhaps not willingly (ambush, brigands). When combat ensues, the old addage may well apply: "I'm don't start fights, but I definitely finish them."
+◦◦◦ **combat, to-hit rolls, THAC0** ◦◦◦</center>
+
+<b>Terms Defined:</b><br><br>
+- <a href="#armorclass">AC</a><br>
+- <a href="#initiative">initiative</a><br>
+- <a href="#round">round</a><br>
+- <a href="#surprise">surprise</a><br>
+
+THAC0: “To Hit Armor  Class Zero”
+
+In *Scarlet Horizons* there is the classic concept of *Armor Class*. 
+
+At some point, your [player-character][2] will find herself involved in combat — perhaps not willingly (ambush, brigands). When combat ensues, the old addage may well apply: "I'm don't start fights, but I definitely finish them."
 
 Truth to tell, depending upon the chosen personality and predilections of your player-character, s/he may indeed *start* a lot of fights. 
 
@@ -10,9 +22,9 @@ In a roleplaying game, fights may be *mortal*, i.e., to the death, or they may b
 
 When it comes to physical combat, not all player-character (i.e., *PCs* for short) are created equal.  In many roleplaying games (*Dungeons & Dragons* being the most widely known), your player-character will have a vocation. In many game systems, this is called your character's *class*. 
 
-In *Scarlet Horizons*, the author's self-created setting and rules system for fantasy and far-future roleplaying, there are quite a few of these *classes*. The best combatants are those PCs (i.e., [player-characters][1]) who concentrate of the Fighter class —and its *subclasses*. These characters tend to hit the hardest and most accurately in combat.
+In *Scarlet Horizons*, the author's self-created setting and rules system for fantasy and far-future roleplaying, there are quite a few of these *classes*. The best combatants are those PCs — [player-characters][2] — who concentrate of the Fighter class —and its *subclasses*. These characters tend to hit the hardest and most accurately in combat.
 
-New players who've never played a tabletop RPG may want to take the Fighter class. It's tendencies and modus operandi are well-reflected in literature, television, and movies (*The Count of Monte Christo*, Vikings, Bruce Lee movies, *Blackhawk Down*, etc.)
+New players who've never played a tabletop RPG may want to take the Fighter class. It's tendencies and modus operandi are well-reflected in literature, television, and movies ( *The Count of Monte Christo*, Vikings, Bruce Lee movies, *Blackhawk Down*, etc.)
 
 The thing about combat is, your foe is trying to hurt you without getting hurt in turn. So, combat is a dance of martial skill — feints, lunges, haymakers, thrusts, slashes all interspersed with ducking, dodging, blocking, evading. 
 
@@ -24,8 +36,64 @@ In *Dungeons & Dragons*, and in my own *Scarlet Horizons* system and setting —
 
 The higher the result that you roll using that 20-sided die (called a *dodecahedron*, if you care), the better the likelihood you've successfully injured your foe, whether that's another bar room brawler, or a hydra in a swamp.
 
-In many systems, *Dungeons & Dragons*, *Scarlet Heroes*, and &mdash; yes &mdash; in my own *Scarlet Horizons*, the goal is to get a d20 die result equal to or higher than a certain target number. In the 5th edition of *Dungeons & Dragons*, that target number is an *Armor Class*, and in the modern 5th edition of the game, the higher the Armor Class, the more difficult it is to penetrate with an attack.
+<a name="armorclass"> </a><br><br>
 
-But in earlier versions of AD&D, Armor Class did not range from 10 to (the upper twenties, or even higher). Rather, in these older systems, Armor Class ranged from negative ten, to positive ten. And in *those* systems, the *lower* the AC (armor class), the better protected or the harder to hit a target was.
+*Armor Class* (AC for short)<br><br>
 
- [1]: /2023/11/what-is-a-roleplaying-game#dungeonmaster#playercharacter
+In many systems, *Dungeons & Dragons*, *Scarlet Heroes*, and — yes — in my own *Scarlet Horizons*, the goal is to get a d20 die result equal to or higher than a certain target number. In the 5th edition of *Dungeons & Dragons*, that target number is an *Armor Class*, and in the modern 5th edition of the game, the higher the Armor Class, the more difficult it is to penetrate with an attack.
+
+But in earlier versions of AD&D, Armor Class did not range from 10 to (the upper twenties, or even higher).  Rather, in these older systems, Armor Class ranged from negative ten, to positive ten, and the *lower* an Armor Class, the better.
+
+In <span title="My combination game setting and game system"><b><font color="scarlet">Scarlet Horizons</font></b></span>, there are a couple of ways you can determine your needed d20 **to-hit** roll. Let me give an example and I'll demonstrate these two different methods of determining if your player-character hits in combat.
+
+Let's say you're playing a Fighter named Bartleby the Brazen. He's not very experienced yet (still Level 1) but he's quite strong (Strength 16, which carries a +2 bonus). Bartleby is using a decent quality longsword, but it's not enchanted or so high quality that it carries any bonuses — therefore, it's bonus is +0.
+
+Bartleby gets attacked by a goblin as he leaves town and heads back toward his cabin not far from the village of Helix. The goblin attacks from surprise, springing from behind bushes next to the road. 
+
+Thankfully for Bartleby's sake, the DM rolls a d20 result of *3* for the goblin. It's not a high enough roll to successfully injure Bartleby. The DM says, "At the last possible moment, your warrior instincts kick in and you jerk aside, narrowly dodging a cowardly surprise attack. In the waning light of dusk, you see that a goblin has ambushed you."
+
+Alternatively, the DM might instead say, "A goblin's surprise attack hits you, but your armor absorbs the blow and you are left unharmed." So you see, the DM interprets the results of the die roll, explaining in a way that maintains the narrative fiction, helping the player who controls the character Bartleby to remain submerged in the story.
+
+<a name="surprise"> </a><br><br>
+
+*Surprise*
+
+Not all combat is initiated by a surprise attack. In fact, most of the time — or at least *much* of the time — there is no *surprise* involved: two duelists face off to settle a dispute of honor. Both wait for the referee to drop the handkerchief, signaling the start of the duel.
+
+Some characters will refuse to engage in a surprise attack, at least under most conditions. For instance, a paladin would chafe at the notion of surprise attacking even the band of brigands that surprise-attacked his adventuring party earlier in the day. He might opt to stride forth and confront them directly, even if the party's thief decides to keep a crossbow trained on the brigands from a position of cover.
+
+<a name="round"> </a><br><br>
+
+*Rounds*
+ 
+Because the goblin initiated combat by surprise attacking Bartleby, our PC (i.e., player-character) didn't get an initial attack — because he was *surprised*. That's why surprise attacks are undertaken. They give an advantage.
+
+When combat ensues, in-game time is measured in *rounds*. A round is roughly six seconds, a period of time long enough for some movement, feints, and a committed attack. 
+
+<a name="initiative"> </a><br><br>
+
+*Initiative*
+
+Now that Bartleby is aware of his attacker, the Dungeon Master says, "The surprise round is over, and the first regular round of combat begins. Roll *initiative*."
+
+If you've ever watched a boxing match, you know that when the bell dings to start a round of boxing, you can never be sure which opponent will launch the first punch. Well, the same uncertainty applies in fantasy combat in a roleplaying game. 
+
+And so, to determine who acts first in a given six-second *round* of combat, the Dungeon Master calls for *initiative rolls*. To determine *initiative*, each  combatant in a *Scarlet Horizons* game rolls a ten-sided die, remembering the result. 
+
+Next, each combatant adds his or her Dexterity bonus to the rolled result. In our example, Bartleby has an average Dexterity (10) and so a +0 bonus &mdash; which doesn't affect the 7 he rolled on the d10 die. Bartleby's two-handed, massive sword makes a deadly rasping sound as he draws it from its scabbard. Because it's a large weapon, he subtracts 1 from his result:
+
+Bartleby initiative: 1d10 ("7") + 0 (ave. Dex) - 1 (Large weapon) = 6
+
+Bartleby's initiative for this round is a six. The DM rolls a ten-sided die for teh goblin's initiative and gets a '5' result. This particular goblin has a better than average Dexterity score (14) which carries a +1 bonus. And the goblin is using a one-handed short-sword that doesn't modify initiative, so:
+
+Goblin's initiative 1d10 ("5") + 1 (Dex bonus) + 0 (short sword) = 6
+
+Hmm, Bartleby and the goblin tied for initiative, each getting a 6 result. The DM rules that the tie is broken by comparing Dexterity score. The goblin's Dex 14 is higher than Bartleby's Dex 10, so it will act first this round of combat.
+
+Initiative determination can be confusing to new players, so if you don't quite *grok* it yet, that's okay. The Dungeon Master says to Bartleby's player, "The goblin lashes out with its short sword, hoping to capitalize on its surprise attack before you can get your bearings..."
+
+
+
+   [1]: /2023/11/what-is-a-roleplaying-game
+  [2]: /2023/11/what-is-a-roleplaying-game#playercharacter
+  
